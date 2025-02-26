@@ -25,14 +25,11 @@ I am an experienced accounting professional with 5 years of expertise in financi
 - **Accountancy**: Accounting, Bank/Ledger Reconciliation, GST (GSTR-1, 3B, 9 & 9C, 2B Reconciliation), TDS Computation
 - **Data Science**: SQL, Python, Machine Learning, Power BI, Tableau
 
-## Projects
-- **Budgeting Tool**: Developed a budgeting tool using Excel to help small businesses manage their finances.
-- **Financial Dashboard**: Created a financial dashboard using Power BI to visualize key financial metrics.
-
 ## Certifications
-- **Data Science**: Internshala Trainings (IIT Madras), Internshala Trainings (NSDC)
-- **Microsoft Visualization**: Power BI
-- **Bookkeeping**: QuickBooks Online
+- **Data Science**: 1.Internshala Trainings (IIT Madras)(https://drive.google.com/file/d/1Y_9RbjtOo0OeBhCo9hp6jiwBjBCyK6G3/view?usp=drive_link)
+                    2.Internshala Trainings (NSDC) (https://drive.google.com/file/d/1r0fBqHEkiHU3BXeMsJP5_P1XNx-0F8pO/view?usp=drive_link)
+- **Microsoft Visualization**: Power BI(https://drive.google.com/file/d/1I66fZelfBN4u2JjFN7uHLxXyIs6xB3GK/view?usp=drive_link)
+- **Bookkeeping**: QuickBooks Online(https://drive.google.com/file/d/187UzdHQ_TyBRHmWnexTsmCmiK24j8Ezl/view?usp=drive_link)
 
 ## Education
 - **Bachelor of Commerce**, Saurashtra University (2022)
