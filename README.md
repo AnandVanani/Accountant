@@ -4,6 +4,11 @@
 I am an experienced accounting professional with 5 years of expertise in financial management, tax compliance, and reconciliations. Recently, I have equipped myself with advanced data science skills, including proficiency in SQL, Python, machine learning, Power BI, and Tableau. I bring a unique blend of financial expertise and data analytics to deliver actionable insights, optimize processes, and drive strategic decision-making.
 
 ## Experience
+- **Freelancer Account at Divyam Medicals (May. 2024 - Still)**
+  - Prepared & Filed GSTR-1, 3B
+  - Reconciliation
+  - All accounting
+    
 - **Senior Account Executive at Jain Dairy Product Pvt Ltd (Mar. 2023 - Mar. 2024)**
   - Prepared GSTR-1, 3B, 9 & 9C
   - Managed TDS computations and petty cash
